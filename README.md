@@ -1,4 +1,4 @@
-### Hi there 👋
+## [Oh, Hello](https://www.youtube.com/watch?v=tfdMsxSjY3o)
 
 <!--
 **WillPresley/WillPresley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Will, and I am a developer and sysadmin currently located in Athens, Ohio.
+
+- 🔭 I’m currently working on a massive migration of dozens of single-install WordPress sites into a scalable multisite installation.
+- 🌱 I’m currently learning Kotlin, ES6 specific JS, and a bit of React (with more to come).
