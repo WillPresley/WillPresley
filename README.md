@@ -1,5 +1,5 @@
-<h1 align="center">[Oh, Hello](https://www.youtube.com/watch?v=tfdMsxSjY3o), I'm Will</h1>
-<h3 align="center">I'm Will, and I am a developer and sysadmin currently located in Athens, Ohio.</h3>
+# [Oh, Hello](https://www.youtube.com/watch?v=tfdMsxSjY3o), I'm Will
+I am a developer and sysadmin currently located in Athens, Ohio.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=willpresley" alt="willpresley" /> </p>
 
